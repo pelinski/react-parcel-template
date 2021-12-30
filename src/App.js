@@ -1,10 +1,11 @@
 import React from "react";
+import './App.scss';
 
 export const App = () => {
 
     return (
         <main>
-            this is a react template
+            <h1>this is a react template</h1>
         </main>
     )
 }
