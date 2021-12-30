@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "git@github.com:pelinski/tpr_net.git",
+  "repository": "git@github.com:pelinski/react-parcel-template.git",
   "author": "Teresa Pelinski <teresapelinski@gmail.com>",
   "license": "MIT",
   "staticFiles": {
